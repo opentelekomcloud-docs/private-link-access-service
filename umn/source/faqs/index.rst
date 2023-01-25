@@ -18,7 +18,7 @@ FAQs
    :maxdepth: 1
    :hidden: 
 
-   private_link_access_service___basics/index
+   private_link_access_service_basics/index
    plas_options/index
    network_products_that_can_be_used_to_connect_to_open_telekom_cloud/index
    architectural_details/index
