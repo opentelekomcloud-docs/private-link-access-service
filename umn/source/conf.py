@@ -24,7 +24,7 @@ extensions = [
 otcdocs_auto_name = False
 otcdocs_auto_version = False
 
-project = 'Private Link Access'
+project = 'Private Link Access Service'
 otcdocs_repo_name = 'opentelekomcloud-docs/private-link-access-service'
 # Those variables are required for edit/bug links
 
