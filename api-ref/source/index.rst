@@ -1,6 +1,6 @@
-===================================
-Private Link Access - API Reference
-===================================
+===========================================
+Private Link Access Service - API Reference
+===========================================
 
 .. toctree::
    :maxdepth: 1
