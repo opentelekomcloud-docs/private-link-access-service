@@ -1,6 +1,6 @@
-================================
-Private Link Access - User Guide
-================================
+========================================
+Private Link Access Service - User Guide
+========================================
 
 .. toctree::
    :maxdepth: 1

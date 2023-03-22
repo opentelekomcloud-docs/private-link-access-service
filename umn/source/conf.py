@@ -81,7 +81,7 @@ html_theme_options = {
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
 
-html_title = "Private Link Access - User Guide"
+html_title = "Private Link Access Service - User Guide"
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -93,6 +93,6 @@ html_static_path = ['_static']
 latex_documents = [
     ('index',
      'plas-umn.tex',
-     u'Private Link Access - User Guide',
+     u'Private Link Access Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
