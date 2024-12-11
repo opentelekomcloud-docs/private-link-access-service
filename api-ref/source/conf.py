@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'plas-api-ref.tex',
-     u'Private Link Access Service - API Reference',
+    u'Private Link Access Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 

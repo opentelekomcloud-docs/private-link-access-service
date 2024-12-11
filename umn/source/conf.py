@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'plas-umn.tex',
-     u'Private Link Access Service - User Guide',
+    u'Private Link Access Service - User Guide',
      u'OpenTelekomCloud', 'manual'),
 ]
 
