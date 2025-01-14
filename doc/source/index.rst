@@ -8,6 +8,7 @@ Private Link Access Service (PLAS) enables public cloud platform users to establ
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: plas
       :umn: This document describes Private Link Access Service, helping you quickly create and properly use the service.
       :api-ref: This document describes application programming interfaces (APIs) of Private Link Access Service (PLAS) and provides API parameter.
